@@ -9,3 +9,13 @@
 <strong>Link(s) to work</strong>
 1.( https://codepen.io/nextwebb/pen/XWrvdQJ?editors=1010 via @CodePen)
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+<h2> Day 112: October 2, 2019 </h2
+
+<strong>Today's Progress</strong>: Revised some javascript fundamentals such as function chaining, js scopes, "This" keyword, arrow functions, template literals and js automatic semicolon insertion.
+
+<strong>Thoughts:</strong> what impressed me today about Javascript, is its ability to chain multiple actions based on what it returns.function chaining is not limited to arrays all datatypes can do it.
+
+<strong>Link(s) to work</strong>
+1.( https://codepen.io/nextwebb/pen/YzKmrON?editors=0010 via @CodePen)
+<!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
