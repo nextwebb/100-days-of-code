@@ -14,7 +14,7 @@
 
 <strong>Today's Progress</strong>: Revised some javascript fundamentals such as function chaining, js scopes, "This" keyword, arrow functions, template literals and js automatic semicolon insertion.
 
-<strong>Thoughts:</strong> what impressed me today about Javascript, is its ability to chain multiple actions based on what it returns.function chaining is not limited to arrays; all datatypes can do it.
+<strong>Thoughts:</strong> what impressed me today about Javascript? its ability to chain multiple actions based on what it returns.function chaining is not limited to arrays; all datatypes can do it.
 
 <strong>Link(s) to work</strong>
 1.( https://codepen.io/nextwebb/pen/YzKmrON?editors=0010 via @CodePen)
