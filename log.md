@@ -19,3 +19,13 @@
 <strong>Link(s) to work</strong>
 1.( https://codepen.io/nextwebb/pen/YzKmrON?editors=0010 via @CodePen)
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+<h2> Day 113: October 3, 2019 </h2
+
+<strong>Today's Progress</strong>:i worked on a basic js To-do App in the browser environment. also Worked on some nodejs environment basics; such as the http module and its methods and i got a better understanding of the "req" object in a nodejs server.
+
+<strong>Thoughts:</strong> A common disease in programming is the act of trying to learn everything there is, at once and getting confused and giving up. Understand the "why" before using a new fancy library.
+
+<strong>Link(s) to work</strong>
+1.( https://codepen.io/nextwebb/pen/NWWKXEr via @CodePen)
+<!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
