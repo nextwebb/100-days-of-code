@@ -29,3 +29,17 @@
 <strong>Link(s) to work</strong>
 1.( https://codepen.io/nextwebb/pen/NWWKXEr via @CodePen)
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+<h2> Day 114 & 115: October 4 & 5, 2019 </h2
+
+<strong>Today's Progress</strong>: i setup an express server with connection to mongodb.then wrote some callback anonymous functions,Asynchronous promises and CRUD operations using js.
+
+<strong>Thoughts:</strong> Really learnt alot about the node javascript environment and its jargons. 
+First, the express module is a branch of pre-written js code for the node environment that we can leverge (so we dont re-invent the wheel and our code is more organized). 
+Secondly, the mongodb is a no sql db.  the db can have many collecctions just like a db can have several tables and each value in the collection is called a document.
+Thirdly, one major use of nodejs callbacks, is that upon db connection; it'll run certain functionalities automatically. etc
+
+<strong>Link(s) to work</strong>
+1.Still in development.
+<!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
