@@ -32,7 +32,7 @@
 
 <h2> Day 114 & 115: October 4 & 5, 2019 </h2
 
-<strong>Today's Progress</strong>: i setup an express server with connection to mongodb.then wrote some callback anonymous functions,Asynchronous promises and CRUD operations using js.
+<strong>Today's Progress</strong>: i setup an express server with connection to mongodb. then wrote some anonymous callback functions, Asynchronous promises and CRUD operations using js.
 
 <strong>Thoughts:</strong> Really learnt alot about the node javascript environment and its jargons. 
 First, the express module is a branch of pre-written js code for the node environment that we can leverge (so we dont re-invent the wheel and our code is more organized). 
