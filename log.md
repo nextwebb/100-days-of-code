@@ -45,9 +45,9 @@ Thirdly, one major use of nodejs callbacks, is that upon db connection; it'll ru
 
 <h2> Day 116: October 6, 2019 </h2
 
-<strong>Today's Progress</strong>: i got to learn and use the axios feature of js in place of fetch() method for browser and server asychronous communication. integrated full CRUD operation in nodeserver.
+<strong>Today's Progress</strong>: i got to learn and use the axios promise feature of js in place of fetch() method for browser and server asychronous communication. integrated full CRUD operation in nodeserver.
 
-<strong>Thoughts:</strong> I related the axios and featch() promise feature, to the way i understood Ajax calls and request to PHP server. tomorrow i'll implement the DRY(do not repeat yourself) productivity skill.
+<strong>Thoughts:</strong> I related the axios and fetch() promise feature, to the way i understood Ajax calls and request to PHP server. tomorrow i'll implement the DRY(do not repeat yourself) productivity skill.
 
 
 <strong>Link(s) to work</strong>
