@@ -43,3 +43,15 @@ Thirdly, one major use of nodejs callbacks, is that upon db connection; it'll ru
 1.Still in development.
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
 
+<h2> Day 116: October 6, 2019 </h2
+
+<strong>Today's Progress</strong>: i got to learn and use the axios feature of js in place of fetch() method for browser and server asychronous communication. integrated full CRUD operation in nodeserver.
+
+<strong>Thoughts:</strong> I related the axios and featch() promise feature, to the way i understood Ajax calls and request to PHP server. tomorrow i'll implement the DRY(do not repeat yourself) productivity skill.
+
+
+<strong>Link(s) to work</strong>
+1.Still in development(Fully featured and dynamic TodoApp).
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1570403884/Screenshot_from_2019-10-07_00-06-46.png">
+<!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
