@@ -57,11 +57,12 @@ Thirdly, one major use of nodejs callbacks, is that upon db connection; it'll ru
 
 <h2> Day 117 & 118: October 7 & 8, 2019 </h2
 
-<strong>Today's Progress</strong>: i've learnt more about client side rendering,res.send() vs res.json() methods, securing routes using express response Authentication feature,and completed my minimalistic CRUD To-do App.
-<strong>Thoughts:</strong>it is important to have lots of small victories along the road towards becoming a better developer; Completing small projects is one of the many ways to cement your skills and keep learning.small wins, small victories ,one of many significant victories.
+<strong>Today's Progress</strong>: <p>i've learnt more about client side rendering,res.send() vs res.json() methods, securing routes using express response Authentication feature,and completed my minimalistic CRUD To-do App.</p>
+
+<strong>Thoughts:</strong><p>it is important to have lots of small victories along the road towards becoming a better developer; Completing small projects is one of the many ways to cement your skills and keep learning.small wins, small victories ,one of many significant victories.</p>
 
 <strong>Link(s) to work</strong>
-1.Minimalistic todo app with bowser rendering , secure and  full CRUD operation with mongodb.
+1.<p>Minimalistic todo app with bowser rendering , secure and  full CRUD operation with mongodb.</p>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1570578771/Screenshot_from_2019-10-09_00-51-58.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1570578812/Screenshot_from_2019-10-09_00-52-05.png">
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
