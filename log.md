@@ -79,5 +79,5 @@ pass:nextwebb@me <br>
 <strong>Link(s) to work</strong>
 1.<p>webconnect App. it replicates the main functionalities of social network applications. it's still in development</p>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099172/Screenshot_from_2019-10-15_01-22-29.png">
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099187/Screenshot_from_2019-10-15_01-23-08.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099886/Screenshot_from_2019-10-15_01-37-29.png">
 
