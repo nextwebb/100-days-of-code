@@ -1,6 +1,6 @@
 <h1> Round 2 : 100 Days Of Code - Log</h1>
 
-<h2> Day 111: October 1, 2019 </h2
+<h2> Day 111; posted: October 1, 2019 </h2
 
 <strong>Today's Progress</strong>: Revised some javascript fundamentals such as  prebuilt browser objects, higher order functions, arrays,making decisions and objects .
 
@@ -10,7 +10,7 @@
 1.( https://codepen.io/nextwebb/pen/XWrvdQJ?editors=1010 via @CodePen)
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
 
-<h2> Day 112: October 2, 2019 </h2
+<h2> Day 112; posted: October 2, 2019 </h2
 
 <strong>Today's Progress</strong>: Revised some javascript fundamentals such as function chaining, js scopes, "This" keyword, arrow functions, template literals and js automatic semicolon insertion.
 
@@ -20,7 +20,7 @@
 1.( https://codepen.io/nextwebb/pen/YzKmrON?editors=0010 via @CodePen)
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
 
-<h2> Day 113: October 3, 2019 </h2
+<h2> Day 113; posted: October 3, 2019 </h2
 
 <strong>Today's Progress</strong>:i worked on a basic js To-do App in the browser environment. also Worked on some nodejs environment basics; such as the http module and its methods and i got a better understanding of the "req" object in a nodejs server.
 
@@ -30,7 +30,7 @@
 1.( https://codepen.io/nextwebb/pen/NWWKXEr via @CodePen)
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
 
-<h2> Day 114 & 115: October 4 & 5, 2019 </h2
+<h2> Days 114 & 115: posted: October 5, 2019 </h2
 
 <strong>Today's Progress</strong>: i setup an express server with connection to mongodb. then wrote some anonymous callback functions, Asynchronous promises and CRUD operations using js.
 
@@ -43,7 +43,7 @@ Thirdly, one major use of nodejs callbacks, is that upon db connection; it'll ru
 1.Still in development.
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
 
-<h2> Day 116: October 6, 2019 </h2
+<h2> Day 116;  posted: October 6, 2019 </h2
 
 <strong>Today's Progress</strong>: i got to learn and use the axios promise feature of js in place of fetch() method for browser and server asychronous communication. integrated full CRUD operation in nodeserver.
 
@@ -55,7 +55,7 @@ Thirdly, one major use of nodejs callbacks, is that upon db connection; it'll ru
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1570403884/Screenshot_from_2019-10-07_00-06-46.png">
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
 
-<h2> Day 117 & 118: October 7 & 8, 2019 </h2
+<h2> Days 117 & 118; posted: October  8, 2019 </h2
 
 <strong>Today's Progress</strong>: <p>i've learnt more about client side rendering,res.send() vs res.json() methods, securing routes using express response Authentication feature,and completed my minimalistic CRUD To-do App.</p>
 
@@ -69,4 +69,15 @@ pass:nextwebb@me <br>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1570578771/Screenshot_from_2019-10-09_00-51-58.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1570578812/Screenshot_from_2019-10-09_00-52-05.png">
 <!--2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+<h2> Days 119 , 120 & 121;  posted: October 14  2019 </h2
+
+<strong>Today's Progress</strong>: <p> Over the couple of days i've worked on Understanding routes, middleswares, the boilerplate express.json() & express.urlencode() methods as used in the express framework. As well Organization of my code into components using MVC design pattern. I also worked on useful server side form validations.</p>
+
+<strong>Thoughts:</strong><p> It's been great learning how to implement industry standard techniques and tools in complex application development. Theres always a method the madness.</p>
+
+<strong>Link(s) to work</strong>
+1.<p>webconnect App. it replicates the main functionalities of social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099172/Screenshot_from_2019-10-15_01-22-29.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099187/Screenshot_from_2019-10-15_01-23-08.png">
 
