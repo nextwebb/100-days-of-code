@@ -62,7 +62,7 @@ Thirdly, one major use of nodejs callbacks, is that upon db connection; it'll ru
 <strong>Thoughts:</strong><p>it is important to have lots of small victories along the road towards becoming a better developer; Completing small projects is one of the many ways to cement your skills and keep learning.small wins, small victories ,one of many significant victories.</p>
 
 <strong>Link(s) to work</strong>
-1.<p>Minimalistic todo app with bowser rendering , secure and  full CRUD operation with mongodb.</p>
+<p>1. Minimalistic todo app with bowser rendering , secure and  full CRUD operation with mongodb.</p>
 checkout:https://todoapp-entry.herokuapp.com <br>
 user:nextwebb <br>
 pass:nextwebb@me <br>
@@ -77,7 +77,8 @@ pass:nextwebb@me <br>
 <strong>Thoughts:</strong><p> It's been great learning how to implement industry standard techniques and tools in complex application development. Theres always a method the madness.</p>
 
 <strong>Link(s) to work</strong>
-1.<p>webconnect App. it replicates the main functionalities of social network applications. it's still in development</p>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099172/Screenshot_from_2019-10-15_01-22-29.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099886/Screenshot_from_2019-10-15_01-37-29.png">
 
