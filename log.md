@@ -81,4 +81,14 @@ pass:nextwebb@me <br>
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099172/Screenshot_from_2019-10-15_01-22-29.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099886/Screenshot_from_2019-10-15_01-37-29.png">
+  
+  <h2> Days 122;  posted: October 15  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I included mongodb connection to my webConnet app. i learnt more about node environmental variables and how to use them with .gitignore file to secure api keys,port and mongodb connection string.i understood the context binding that es6 arrow functions provides as against the tranditonal function that mutates the "this" function and refers to the global object always. </p>
+
+<strong>Thoughts:</strong><p> Sometimes tech can seem to be overwhelming; its just important to understand the fundamentals first, then use it as a line of reasoning when trying to understand certain concepts. the more i learn js i'm literally constantly in awe to see what it does and how its evolved. i'll work on promises tomorrow to handle response from the modeled data.</p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
 
