@@ -91,4 +91,14 @@ pass:nextwebb@me <br>
 <strong>Link(s) to work</strong>
 <p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
+   <h2> Days 123;  posted: October 16  2019 </h2
+
+<strong>Today's Progress</strong>: <p> i worked on handling async operations in javascript using promises, traditional callbacks and asyc await, especially on mongodb methods that return a promise. I also reinforced my knowledge on handling stateless http request using sessions and browser cookies.</p>
+
+<strong>Thoughts:</strong><p> Generally Async operations means more programs can run at the same time. learning and implementing different tools js and node offers, to handle this kind of situations was impressive. And http requests are statless; they dont have knowledge of  previous requests, so sessions and cookies fix their amnesia.</p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
 
