@@ -110,6 +110,6 @@ pass:nextwebb@me <br>
 
 <strong>Link(s) to work</strong>
 <p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099172/Screenshot_from_2019-10-15_01-22-29.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571443354/Screenshot_from_2019-10-19_01-01-14.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
 
