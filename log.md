@@ -101,4 +101,15 @@ pass:nextwebb@me <br>
 <strong>Link(s) to work</strong>
 <p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
+   <h2> Days 124 & 125;  posted: October 18  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I worked on rendering partial pages in ejs such as headers and footers, worked on parsing dynamic data in ejs also storing sessions and flash messages in mongodb db with callbacks before rendering pages. </p>
+
+<strong>Thoughts:</strong><p> i understand sessions in js better as used in flash messages. The flash is typically used in combination with redirects, ensuring that the message is available to the next page that is to be rendered. </p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571099172/Screenshot_from_2019-10-15_01-22-29.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
 
