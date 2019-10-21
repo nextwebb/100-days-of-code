@@ -113,3 +113,27 @@ pass:nextwebb@me <br>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571443354/Screenshot_from_2019-10-19_01-01-14.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
 
+ <h2> Days 124 & 125;  posted: October 18  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I worked on rendering partial pages in ejs such as headers and footers, worked on parsing dynamic data in ejs also storing sessions and flash messages in mongodb db with callbacks before rendering pages. </p>
+
+<strong>Thoughts:</strong><p> i understand sessions in js better as used in flash messages. The flash is typically used in combination with redirects, ensuring that the message is available to the next page that is to be rendered. </p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571443354/Screenshot_from_2019-10-19_01-01-14.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
+  <h2> Day 126 - 127;  posted: October 20  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I wrote some async functions which returned a promise. i basically used them to handle timing actions such as calls to the database and api request. </p>
+
+<strong>Thoughts:</strong><p> i like the await async feature in js because it helps me write cleaner code by helping with responses that resolve as to writing ".then(callback) & .catch(callback)".</p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571659336/Screenshot_from_2019-10-21_12-24-45.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571659375/Screenshot_from_2019-10-21_12-24-52.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
+
