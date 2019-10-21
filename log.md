@@ -126,12 +126,12 @@ pass:nextwebb@me <br>
   
   <h2> Day 126 - 127;  posted: October 20  2019 </h2
 
-<strong>Today's Progress</strong>: <p> I wrote some async functions which returned a promise. i basically used them to handle timing actions such as calls to the database and api request. </p>
+<strong>Today's Progress</strong>: <p> I wrote some async functions which returned a promise. i basically used them to handle timing and async actions such as calls to the database and api request. </p>
 
-<strong>Thoughts:</strong><p> i like the await async feature in js because it helps me write cleaner code by helping with responses that resolve as to writing ".then(callback) & .catch(callback)".</p>
+<strong>Thoughts:</strong><p> i like the await async feature in js because it helps me write cleaner code by helping with responses which resolve and as to writing ".then(callback) & .catch(callback)".</p>
 
 <strong>Link(s) to work</strong>
-<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<p>1. WebConnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571659336/Screenshot_from_2019-10-21_12-24-45.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1571659375/Screenshot_from_2019-10-21_12-24-52.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
