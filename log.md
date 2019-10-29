@@ -146,4 +146,14 @@ pass:nextwebb@me <br>
 <p>1. WebConnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
   
+   <h2> Day 130 - 135;  posted: October 29  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I've been doing alot for the past couple of days, from writing api's in nodejs, testing api's with postman to debugging  nodejs  applications.  </p>
+
+<strong>Thoughts:</strong><p> The passed few days has being made me more enthuisiastic and knowlegdeable in the realm of backend development and development in general. over the weekend i was also involved a hackathon which really boosted my zeal for technology. </p>
+
+<strong>Link(s) to work</strong>
+<p>1. WebConnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
 
