@@ -150,7 +150,17 @@ pass:nextwebb@me <br>
 
 <strong>Today's Progress</strong>: <p> I've been doing alot for the past couple of days, from writing api's in nodejs, testing api's with postman to debugging  nodejs  applications.  </p>
 
-<strong>Thoughts:</strong><p> The passed few days has being made me more enthuisiastic and knowlegdeable in the realm of backend development and development in general. over the weekend i was also involved a hackathon which really boosted my zeal for technology. </p>
+<strong>Thoughts:</strong><p> The passed few days has made me more enthuisiastic and knowlegdeable in the realm of backend development and development in general. over the weekend i was also involved a hackathon which really boosted my zeal for technology. </p>
+
+<strong>Link(s) to work</strong>
+<p>1. WebConnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
+   <h2> Day 136 - 137;  posted: October 31  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I worked with mongodb aggregrate pipeline operators, used the flash package to display messages, restricted pages and features to only priviledged users, wrote reuseable functions and stripped useless codes.  </p>
+
+<strong>Thoughts:</strong><p> I made tech goals for october; well i wouldnt say i've acheived all of them buh i can certainly say i've worked hard towards them and its made me a better developer so far. the learning never stop. </p>
 
 <strong>Link(s) to work</strong>
 <p>1. WebConnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
