@@ -166,4 +166,17 @@ pass:nextwebb@me <br>
 <p>1. WebConnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
   
+  <h2> Days 138 - 139;  posted: November 3  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I worked on preventing cross-site scriptng attacks in nodejs applications. i wrote functions to sanitize and Markdown Safe User Generated HTML. </p>
+
+<strong>Thoughts:</strong><p> Every new feature or priviledge to the user produces opportunities for attacks; care thus needs to be taken in implementing features with good security and good logic.  </p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1572825364/Screenshot_from_2019-11-04_00-54-04.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1572825381/Screenshot_from_2019-11-04_00-54-14.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1572825391/Screenshot_from_2019-11-04_00-54-34.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
 
