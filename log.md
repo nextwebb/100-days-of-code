@@ -158,7 +158,7 @@ pass:nextwebb@me <br>
   
   <h2> Days 138 - 139;  posted: November 3  2019 </h2
 
-<strong>Today's Progress</strong>: <p> I worked on preventing cross-site scriptng attacks in nodejs applications. i wrote functions to sanitize and Markdown Safe User Generated HTML. </p>
+<strong>Today's Progress</strong>: <p> I worked on preventing cross-site scriptng attacks in my node app. i wrote functions to sanitize and Markdown Safe User Generated HTML. </p>
 
 <strong>Thoughts:</strong><p> Every new feature or priviledge to the user produces opportunities for attacks; care thus needs to be taken in implementing features with good security and good logic.  </p>
 
