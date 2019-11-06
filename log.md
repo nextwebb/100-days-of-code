@@ -169,4 +169,17 @@ pass:nextwebb@me <br>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1572825391/Screenshot_from_2019-11-04_00-54-34.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
   
+  <h2> Days 140;  posted: November 5  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I worked on frontend js using webpack to  bundle JavaScript files for usage in the browser, i wrote more mongodb aggregate pipline operations to implement a live search feature; after each key strokes and an asychcronous request is sent to the server.</p>
+
+<strong>Thoughts:</strong><p> Each project must be structured correctly, it helps the entire program become maintainable and easy to debug. Being writing mongodb aggregrate functions now; well i'm still wrapping my head around the operators and and the pipline stages.     </p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573027658/Screenshot_from_2019-11-06_09-05-37.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573027671/Screenshot_from_2019-11-06_09-05-58.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573027671/Screenshot_from_2019-11-06_09-05-58.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
 
