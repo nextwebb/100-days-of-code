@@ -179,7 +179,7 @@ pass:nextwebb@me <br>
 <p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573027658/Screenshot_from_2019-11-06_09-05-37.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573027671/Screenshot_from_2019-11-06_09-05-58.png">
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573027671/Screenshot_from_2019-11-06_09-05-58.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573027736/Screenshot_from_2019-11-06_09-08-33.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
   
 
