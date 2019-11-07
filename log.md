@@ -184,7 +184,7 @@ pass:nextwebb@me <br>
   
   <h2> Days 141;  posted: November 6  2019 </h2
 
-<strong>Today's Progress</strong>: <p> Still working on my frontend js modules and inplemented some features geared towards better useability and performance. Fixed security vulnerabilities when i'm rendering template that isn't ejs. used a lightweight npm packge DOMpurify.</p>
+<strong>Today's Progress</strong>: <p> Still working on my frontend js modules and implemented some features geared towards better useability and performance. Fixed security vulnerabilities when i'm rendering template that isn't ejs. used a lightweight npm packge DOMpurify.</p>
 
 <strong>Thoughts:</strong><p>Useabibily and performance must be balanced or well thought about in every web application.    </p>
 
