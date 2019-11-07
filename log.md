@@ -182,4 +182,17 @@ pass:nextwebb@me <br>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573027736/Screenshot_from_2019-11-06_09-08-33.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
   
+  <h2> Days 141;  posted: November 6  2019 </h2
+
+<strong>Today's Progress</strong>: <p> Still working on my frontend js modules and inplemented some features geared towards better useability and performance. Fixed security vulnerabilities when i'm rendering template that isn't ejs. used a lightweight npm packge DOMpurify.</p>
+
+<strong>Thoughts:</strong><p>Useabibily and performance must be balanced or well thought about in every web application.    </p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573087316/Screenshot_from_2019-11-07_01-39-53.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573087325/Screenshot_from_2019-11-07_01-40-28.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573087389/Screenshot_from_2019-11-07_01-42-32.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
 
