@@ -195,4 +195,16 @@ pass:nextwebb@me <br>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573087389/Screenshot_from_2019-11-07_01-42-32.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
   
+  <h2> Days 142;  posted: November 7  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I Implemented some model using the MVC design pattern . I wrote CRUD Operations to my app's mongodb storage. i work on more promises to handle expensive functions execution and async operations. lastly, i debugged alot of my syntax errors.  </p>
+
+<strong>Thoughts:</strong><p> I'm happy i worked today. honestly i just wanted to sleep more. Buh the #100DaysOfCode community has a way of reinvigorating my passion for code. Another day to be world class.  </p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573174705/Screenshot_from_2019-11-08_01-39-30.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573174711/Screenshot_from_2019-11-08_01-41-07.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
 
