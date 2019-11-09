@@ -207,4 +207,16 @@ pass:nextwebb@me <br>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573174711/Screenshot_from_2019-11-08_01-41-07.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
   
+  <h2> Days 143;  posted: November 8  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I worked on the scopes and contexts of propeties in my node app, manipulated the global object that executed my functions, and wrote some client side logic based on the response from the server.     </p>
+
+<strong>Thoughts:</strong><p> After a while of coding; i mixed up my semantics as to what context and scope my properties referred to. long story short i checked out some docs on using the "this" keyword, Global object in browser and nodejs, class based syntax and function constructor syntax. it was cool learning how js works.   </p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573258727/Screenshot_from_2019-11-09_01-17-14.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573258749/Screenshot_from_2019-11-09_01-18-04.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
 
