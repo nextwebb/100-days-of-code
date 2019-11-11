@@ -219,4 +219,16 @@ pass:nextwebb@me <br>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573258749/Screenshot_from_2019-11-09_01-18-04.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
   
+  <h2> Days 144 - 145;  posted: November 10  2019 </h2
 
+<strong>Today's Progress</strong>: <p> The highlights of my coding session involved debugging, reading up on mongodb's aggregate pipeline operators, refactoring my async code for better performanace; using Es6 features and writing some serversside business logic in js.   </p>
+
+<strong>Thoughts:</strong><p> The more errors in my code i fix, the more i cement certain concepts in javascript. like the fact that JavaScript functions do not check the number of arguments received. If a function is called with missing arguments (less than declared), the missing values are set to: undefined. this is really knew to me.  </p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573437958/Screenshot_from_2019-11-11_03-05-17.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573438017/Screenshot_from_2019-11-11_03-02-53.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573438047/Screenshot_from_2019-11-11_03-04-27.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
+ 
