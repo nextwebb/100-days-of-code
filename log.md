@@ -231,4 +231,18 @@ pass:nextwebb@me <br>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573438017/Screenshot_from_2019-11-11_03-02-53.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1573438047/Screenshot_from_2019-11-11_03-04-27.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
+   <h2> Days 146 - 150;  posted: November 17  2019 </h2
+
+<strong>Today's Progress</strong>: <p> The highlights of my coding sessions involved learning to use the socket.io module in nodejs, powering the entire server with socketting functionality, using axios for asynchronus req (live form validations and error display) and preventing csrf attacks using the csurf package.  </p>
+
+<strong>Thoughts:</strong><p> I've learnt a couple of backend tools like socket.io and csurf. they seemed a little challenging to understand how they work, buh their documentation has been alot of help.    </p>
+
+<strong>Link(s) to work</strong>
+<p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574032325/Screenshot_from_2019-11-15_03-32-27.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574032342/Screenshot_from_2019-11-18_00-09-37.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574032360/Screenshot_from_2019-11-18_00-10-18.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574032311/Screenshot_from_2019-11-15_03-20-39.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574032373/Screenshot_from_2019-11-18_00-10-25.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
  
