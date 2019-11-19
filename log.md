@@ -245,4 +245,18 @@ pass:nextwebb@me <br>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574032311/Screenshot_from_2019-11-15_03-20-39.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574032373/Screenshot_from_2019-11-18_00-10-25.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
+   <h2> Days 146 - 150;  posted: November 17  2019 </h2
+
+<strong>Today's Progress</strong>: <p> I worked on api's to my web application,using jsonwebtokens for authentication. i also implemeneted the CORS feature for sharing of the api through any http platform that sends a request to the server.   </p>
+
+<strong>Thoughts:</strong><p> My opinion,  fullstack js makes for a simplier and  more modern web. its just another tool in my toolbox. I feel nodejs is the future, it also has enhanced the adaptability for the demand for custom webapp development.
+
+Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
+
+<strong>Link(s) to work</strong>
+<p>1. Webconnect App. it replicates the main functionalities of modern social network applications. Version 1 is completed; i'll be introducing more features soon.</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574167445/Screenshot_from_2019-11-19_13-39-32.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574167445/Screenshot_from_2019-11-19_13-39-32.png">
+<a href="https://github.com/nextwebb/webconnect">view Code<a/>
  
