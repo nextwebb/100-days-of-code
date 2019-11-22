@@ -259,4 +259,15 @@ Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574167445/Screenshot_from_2019-11-19_13-39-32.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1574167445/Screenshot_from_2019-11-19_13-39-32.png">
 <a href="https://github.com/nextwebb/webconnect">view Code<a/>
+  
+  <h2> Days 153 - 154;  posted: November 21  2019 </h2
+
+<strong>Today's Progress</strong>: <p> *highights, New web application setup, express routing, installed dependencies, and building the UI.. debuging applcation hosted on heroku</p>
+
+<strong>Thoughts:</strong><p> CSS work takes a chunk of my time. Frontend devs are important ! well i'm writing some farm mannagement system;  its coming up slow though, gui and mockup is real work! </p>
+
+<strong>Link(s) to work</strong>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+ 
  
