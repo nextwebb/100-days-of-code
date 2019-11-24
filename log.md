@@ -269,5 +269,14 @@ Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
 <strong>Link(s) to work</strong>
 <p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
+
+<h2> Days 155 - 156;  posted: November 23  2019 </h2
+
+<strong>Today's Progress</strong>: <p> *highights,worked on the MVC structure on my backend code and implemented webpack for my frontend js. </p>
+<strong>Thoughts:</strong><p> Fixing bugs is how we learn. if you get better at debugging, you’ll get better at learning. The opposite is true as well. The better you get at learning things, the easier it’ll be to fix bugs in your code.</P>
+<strong>Link(s) to work</strong>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+
  
  
