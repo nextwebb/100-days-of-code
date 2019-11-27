@@ -279,4 +279,14 @@ Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
 <a href="https://github.com/nextwebb">view Code<a/>
 
  
+<h2> Days 157 - 159;  posted: November 26  2019 </h2
+
+<strong>Today's Progress</strong>: <p> *highights,worked on Admin authentication, wrote some webApp custom features, research on the (Real-time Applications) or SPAs (Single-page Applications) using nodejs, fixed buh errors and mentored entry-level devs
+  </p>
+<strong>Thoughts:</strong><p> We spend ridiculous amount of time debugging your applications. if you get better at debugging, you’ll get better at learning. The opposite is true as well. The better you get at learning things, the easier it’ll be to fix bugs in your code.</P>
+<strong>Link(s) to work</strong>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+
+ 
  
