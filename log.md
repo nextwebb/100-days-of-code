@@ -288,5 +288,12 @@ Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
 <p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
 
+<h2> Days 160;  posted: November 27  2019 </h2
+
+<strong>Today's Progress</strong>: <p> Because of JavaScript’s loosely typed and permissive nature, developers have the temptation to access uninitialized and uncreated values. I’m guilty of such bad practice too. </p>
+<strong>Thoughts:</strong><p> To reduce the risk of such errors, you have to understand the cases when undefined is generated. And more important suppress its appearance and spread within your application, increasing bulletproof codebase.</>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+
  
  
