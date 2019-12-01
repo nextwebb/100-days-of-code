@@ -288,12 +288,25 @@ Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
 <p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
 
-<h2> Days 160;  posted: November 27  2019 </h2
+<h2> Day 160;  posted: November 27  2019 </h2
+
+<strong>Today's Progress</strong>: <p>Because of JavaScript’s loosely typed and permissive nature, developers have the temptation to access uninitialized and uncreated values. I’m guilty of such bad practice too. 🙄
+Maybe I'm the only self....😕  </p>
+<strong>Thoughts:</strong><p> How can i write bugless and cleaner code?  Not at the moment 😂.  Maybe in a couple of years maybe I'll more cleaner and reduce debugging time.  </p>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+
+
+<h2> Day 161;  posted: November 30  2019 </h2
 
 <strong>Today's Progress</strong>: <p> I just love how smooth WebApps work. Version 2 of AHAIFARMS webApp will be SPA. Mostly likely reactjs </p>
 <strong>Thoughts:</strong><p> In my opinion well built WebApps rely on research, thorough work through of features and implementations, sometimes scaling up project dependencies  . </p>
 <p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
+
+
+ 
+ 
 
  
  
