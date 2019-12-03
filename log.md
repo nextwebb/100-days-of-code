@@ -303,6 +303,14 @@ Maybe I'm the only self....😕  </p>
 <strong>Thoughts:</strong><p> In my opinion well built WebApps rely on research, thorough work-through of features to be  implemented and  sometimes scaling up project dependencies  . </p>
 <p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
+  
+  <h2> Day 162 - 164;  posted: December 2  2019 </h2
+
+<strong>Today's Progress</strong>: <p> </p>
+<strong>Thoughts:</strong><p> </p>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+  
 
 
  
