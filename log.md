@@ -324,17 +324,16 @@ Maybe I'm the only self....😕  </p>
 <strong>Thoughts:</strong><p> Formidable npm module, is lightweight and easy to use. it has over 2 million weekly downloads. In all its a great package.  </p>
 <p>1. AHAI FARMS Web APP in devlopment.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
-  <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506718/Screenshot_from_2019-12-05_01-39-05.png">
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506721/Screenshot_from_2019-12-05_01-38-55.png">
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506730/Screenshot_from_2019-12-05_01-38-21.png">
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506748/Screenshot_from_2019-12-05_01-38-13.png">
    <h2> Day 165;  posted: December 4  2019 </h2
 
 <strong>Today's Progress</strong>: <p>*Highlights; Being refactoring my spaghetti code here and there. my codebase is still a mess.. The goal is to handle operations in straightforward, obvious ways. </p>
 <strong>Thoughts:</strong><p> Good code is not clever. It does things in straightforward, obvious ways. i'm still figuring out how to remove model code in my controllers ...</p>
 <p>1. AHAI FARMS Web APP in devlopment.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
-  
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506718/Screenshot_from_2019-12-05_01-39-05.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506721/Screenshot_from_2019-12-05_01-38-55.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506730/Screenshot_from_2019-12-05_01-38-21.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506748/Screenshot_from_2019-12-05_01-38-13.png">
    <h2> Day 166;  posted: December 5  2019 </h2
 
 <strong>Today's Progress</strong>: <p> </p>
