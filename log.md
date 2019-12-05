@@ -304,7 +304,35 @@ Maybe I'm the only self....😕  </p>
 <p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
   
-  <h2> Day 162 - 164;  posted: December 2  2019 </h2
+  <h2> Day 162;  posted: December 1  2019 </h2
+
+<strong>Today's Progress</strong>: <p> *Highlight; worked on some ejs templates for my express routes. i used material UI blocks and bs4   </p>
+<strong>Thoughts:</strong><p> A good User Interface is important in the sense that it makes it easier for your target users to clearly see what the web service or application is meant to do. </p>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+  
+   <h2> Day 163;  posted: December 2  2019 </h2
+
+<strong>Today's Progress</strong>: <p>*Highlight; Finished work on some ejs templates. i also wrote more modules to handle my frontend javascript for user interaction. </p>
+<strong>Thoughts:</strong><p> I havent used GULP yet. But webpack is great for me, my frontend js is well structured and hopefully maintainable. Webpack takes care of bundling alongside a separate task runner.  </p>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+  
+   <h2> Day 164;  posted: December 3  2019 </h2
+
+<strong>Today's Progress</strong>: <p>*Highlihts; Researched for a prouction ready, file-upload npm module. i found multer and formidable. Both great tools. </p>
+<strong>Thoughts:</strong><p> Formidable npm module, is lightweight and easy to use. it has over 2 million weekly downloads. In all its a great package.  </p>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+  
+   <h2> Day 165;  posted: December 4  2019 </h2
+
+<strong>Today's Progress</strong>: <p>*Highlihts; Being refactoring my spaghetti code here and there. my codebase is still a mess.. The goal is to handle operations in straightforward, obvious ways. </p>
+<strong>Thoughts:</strong><p> Good code is not clever. It does things in straightforward, obvious ways. i'm still figuring out how to remove model code in my controllers ...</p>
+<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<a href="https://github.com/nextwebb">view Code<a/>
+  
+   <h2> Day 166;  posted: December 5  2019 </h2
 
 <strong>Today's Progress</strong>: <p> </p>
 <strong>Thoughts:</strong><p> </p>
