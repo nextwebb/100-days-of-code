@@ -267,7 +267,7 @@ Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
 <strong>Thoughts:</strong><p> CSS work takes a chunk of my time. Frontend devs are important ! well i'm writing some farm mannagement system;  its coming up slow though, gui and mockup is real work! </p>
 
 <strong>Link(s) to work</strong>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI Web APP in devlopment. </p>
 <a href="https://github.com/nextwebb">view Code<a/>
 
 <h2> Days 155 - 156;  posted: November 23  2019 </h2
@@ -275,7 +275,7 @@ Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
 <strong>Today's Progress</strong>: <p> *highights,worked on the MVC structure on my backend code and implemented webpack for my frontend js. </p>
 <strong>Thoughts:</strong><p> Fixing bugs is how we learn. if you get better at debugging, you’ll get better at learning. The opposite is true as well. The better you get at learning things, the easier it’ll be to fix bugs in your code.</P>
 <strong>Link(s) to work</strong>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI Web APP in devlopment. </p>
 <a href="https://github.com/nextwebb">view Code<a/>
 
  
@@ -285,7 +285,7 @@ Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
   </p>
 <strong>Thoughts:</strong><p> We spend ridiculous amount of time debugging your applications. if you get better at debugging, you’ll get better at learning. The opposite is true as well. The better you get at learning things, the easier it’ll be to fix bugs in your code.</P>
 <strong>Link(s) to work</strong>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI Web APP in devlopment. </p>
 <a href="https://github.com/nextwebb">view Code<a/>
 
 <h2> Day 160;  posted: November 27  2019 </h2
@@ -293,7 +293,7 @@ Read more at: https://yourstory.com/mystory/why-node-is-the-future</p>
 <strong>Today's Progress</strong>: <p> Because of JavaScript’s loosely typed and permissive nature, developers have the temptation to access uninitialized and uncreated values. I’m guilty of such bad practice too. 🙄
 Maybe I'm the only self....😕  </p>
 <strong>Thoughts:</strong><p> How can i write bugless and cleaner code?  Not at the moment 😂.  Maybe in a couple of years to come codes will be cleaner and i can reduce debugging time.  </p>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI FARMS Web APP in devlopment. </p>
 <a href="https://github.com/nextwebb">view Code<a/>
 
 
@@ -301,42 +301,46 @@ Maybe I'm the only self....😕  </p>
 
 <strong>Today's Progress</strong>: <p> I just love how smooth SPA(single page application) WebApps work. Version 2 of AHAIFARMS webApp will be SPA. Mostly likely reactjs on the frontend.</p>
 <strong>Thoughts:</strong><p> In my opinion well built WebApps rely on research, thorough work-through of features to be  implemented and  sometimes scaling up project dependencies  . </p>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
   
   <h2> Day 162;  posted: December 1  2019 </h2
 
-<strong>Today's Progress</strong>: <p> *Highlight; worked on some ejs templates for my express routes. i used material UI blocks and bs4   </p>
+<strong>Today's Progress</strong>: <p> *Highlights; worked on some ejs templates for my express routes. i used material UI blocks and bs4   </p>
 <strong>Thoughts:</strong><p> A good User Interface is important in the sense that it makes it easier for your target users to clearly see what the web service or application is meant to do. </p>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI FARMS Web APP in devlopment. </p>
 <a href="https://github.com/nextwebb">view Code<a/>
   
    <h2> Day 163;  posted: December 2  2019 </h2
 
-<strong>Today's Progress</strong>: <p>*Highlight; Finished work on some ejs templates. i also wrote more modules to handle my frontend javascript for user interaction. </p>
+<strong>Today's Progress</strong>: <p>*Highlights; Finished work on some ejs templates. i also wrote more modules to handle my frontend javascript for user interaction. </p>
 <strong>Thoughts:</strong><p> I havent used GULP yet. But webpack is great for me, my frontend js is well structured and hopefully maintainable. Webpack takes care of bundling alongside a separate task runner.  </p>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI FARMS Web APP in devlopment. </p>
 <a href="https://github.com/nextwebb">view Code<a/>
   
    <h2> Day 164;  posted: December 3  2019 </h2
 
-<strong>Today's Progress</strong>: <p>*Highlihts; Researched for a prouction ready, file-upload npm module. i found multer and formidable. Both great tools. </p>
+<strong>Today's Progress</strong>: <p>*Highlights; Researched for a prouction ready, file-upload npm module. i found multer and formidable. Both great tools. </p>
 <strong>Thoughts:</strong><p> Formidable npm module, is lightweight and easy to use. it has over 2 million weekly downloads. In all its a great package.  </p>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
-  
+  <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506718/Screenshot_from_2019-12-05_01-39-05.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506721/Screenshot_from_2019-12-05_01-38-55.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506730/Screenshot_from_2019-12-05_01-38-21.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506748/Screenshot_from_2019-12-05_01-38-13.png">
    <h2> Day 165;  posted: December 4  2019 </h2
 
-<strong>Today's Progress</strong>: <p>*Highlihts; Being refactoring my spaghetti code here and there. my codebase is still a mess.. The goal is to handle operations in straightforward, obvious ways. </p>
+<strong>Today's Progress</strong>: <p>*Highlights; Being refactoring my spaghetti code here and there. my codebase is still a mess.. The goal is to handle operations in straightforward, obvious ways. </p>
 <strong>Thoughts:</strong><p> Good code is not clever. It does things in straightforward, obvious ways. i'm still figuring out how to remove model code in my controllers ...</p>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
 <a href="https://github.com/nextwebb">view Code<a/>
   
    <h2> Day 166;  posted: December 5  2019 </h2
 
 <strong>Today's Progress</strong>: <p> </p>
 <strong>Thoughts:</strong><p> </p>
-<p>1. NEW Web APP in devlopment. can't chare screenshots yet.</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
+
 <a href="https://github.com/nextwebb">view Code<a/>
   
 
