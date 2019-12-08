@@ -336,8 +336,8 @@ Maybe I'm the only self....😕  </p>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1575506748/Screenshot_from_2019-12-05_01-38-13.png">
    <h2> Day 166;  posted: December 5  2019 </h2
 
-<strong>Today's Progress</strong>: <p> </p>
-<strong>Thoughts:</strong><p> </p>
+<strong>Today's Progress</strong>: <p> I checked out vuejs frontend framework. did i like it? i dont know. maybe if i had more patience; i would have. </p>
+<strong>Thoughts:</strong><p> All of them frontend frameworks, shouldnt be so opionated. They give you a much steeper learning curve than the language they were built with infact!  </p>
 <p>1. AHAI FARMS Web APP in devlopment.</p>
 
 <a href="https://github.com/nextwebb">view Code<a/>
