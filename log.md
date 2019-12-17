@@ -338,19 +338,18 @@ Maybe I'm the only self....😕  </p>
 
 <strong>Today's Progress</strong>: <p> I checked out vuejs frontend framework. did i like it? i dont know. maybe if i had more patience; i would have. </p>
 <strong>Thoughts:</strong><p> All of them frontend frameworks, shouldnt be so opionated. They give you a much steeper learning curve than the language they were built with infact!  </p>
-<p>1.VueJs app dev</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 167;  posted: December 8  2019 </h2
+   <h2> Day 167 - 172;  posted: December 8  2019 </h2
 
 <strong>Today's Progress</strong>: <p>  </p>
 <strong>Thoughts:</strong><p>  </p>
-<p>1.VueJs app dev</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
 
 <a href="https://github.com/nextwebb">view repo<a/>
-
-
+   
  
  
 
