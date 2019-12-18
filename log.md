@@ -344,8 +344,15 @@ Maybe I'm the only self....😕  </p>
   
    <h2> Day 167 - 172;  posted: December 8  2019 </h2
 
-<strong>Today's Progress</strong>: <p>  </p>
-<strong>Thoughts:</strong><p>  </p>
+<strong>Today's Progress</strong>: <p> being working on a bunch of stuffs
+*Code Organisation using MVC design architecture
+*code refactoring
+*just write code and refactor later
+*Always comment your code
+*// A 'static method', it's just like a normal function 
+// it has no relation with any parent class object instance </p>
+<strong>Thoughts:</strong><p> In JavaScript, everything is an object.  
+In JavaScript functions are first-class objects, that means you can treat them just like any object, in static methods, you are only adding a property to the function object.</p>
 <p>1. AHAI FARMS Web APP in devlopment.</p>
 
 <a href="https://github.com/nextwebb">view repo<a/>
