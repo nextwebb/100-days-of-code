@@ -342,7 +342,7 @@ Maybe I'm the only self....😕  </p>
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 167 - 172;  posted: December 8  2019 </h2
+   <h2> Day 167 - 172;  posted: December 17  2019 </h2
 
 <strong>Today's Progress</strong>: <p> being working on a bunch of stuffs
 *Code Organisation using MVC design architecture
@@ -353,6 +353,20 @@ Maybe I'm the only self....😕  </p>
 // it has no relation with any parent class object instance </p>
 <strong>Thoughts:</strong><p> In JavaScript, everything is an object.  
 In JavaScript functions are first-class objects, that means you can treat them just like any object, in static methods, you are only adding a property to the function object.</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+   <h2> Day 173;  posted: December 18  2019 </h2
+
+<strong>Today's Progress</strong>: 
+    <p> Wrote more routes,ejs templates and event driven DOM mainpulations.I also handled alot of “JavaScript Reference Error Is Not Defined” error logs working with my app's frontend js.  </p>
+<strong>Thoughts:</strong>
+    <p> 
+ To avoid  "JavaScript Reference Error Is Not Defined" error logs, I highly recommend including very clear code comments at the function level to explain what ever optional  parameter is used for, why it’s present, and what aspects of the application necessitate the need for doing something like that.
+ The problem might also be resolved in one of two ways.
+1. Load the Libraries in Proper Order
+2. Leverage Undefined Values i.e check if the variables parsed as arguments to the function is actually defined.
+</p>
 <p>1. AHAI FARMS Web APP in devlopment.</p>
 
 <a href="https://github.com/nextwebb">view repo<a/>
