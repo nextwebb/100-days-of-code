@@ -373,7 +373,7 @@ In JavaScript functions are first-class objects, that means you can treat them j
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576754381/Screenshot_from_2019-12-19_12-18-14.png">
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 173;  posted: December 18  2019 </h2
+  <h2> Day 174;  posted: December 18  2019 </h2
 
 <strong>Today's Progress</strong>: 
     <p> implemented some routing, model code and client side presentation of data for admin analytics.   </p>
