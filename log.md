@@ -372,6 +372,19 @@ In JavaScript functions are first-class objects, that means you can treat them j
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576754373/Screenshot_from_2019-12-19_12-14-13.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576754381/Screenshot_from_2019-12-19_12-18-14.png">
 <a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 173;  posted: December 18  2019 </h2
+
+<strong>Today's Progress</strong>: 
+    <p> implemented some routing, model code and client side presentation of data for admin analytics.   </p>
+<strong>Thoughts:</strong>
+    <p> I decided When to use static methods in my models
+</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896107/Screenshot_from_2019-12-21_03-26-29.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896115/Screenshot_from_2019-12-21_03-26-40.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896124/Screenshot_from_2019-12-21_03-27-03.png">
+<a href="https://github.com/nextwebb">view repo<a/>
    
  
  
