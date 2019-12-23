@@ -385,6 +385,33 @@ In JavaScript functions are first-class objects, that means you can treat them j
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896115/Screenshot_from_2019-12-21_03-26-40.png">
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896124/Screenshot_from_2019-12-21_03-27-03.png">
 <a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 175;  posted: December 21  2019 </h2
+
+<strong>Today's Progress</strong>: 
+    <p>  </p>
+<strong>Thoughts:</strong>
+    <p> I decided When to use static methods in my models
+</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896107/Screenshot_from_2019-12-21_03-26-29.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896115/Screenshot_from_2019-12-21_03-26-40.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896124/Screenshot_from_2019-12-21_03-27-03.png">
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 176;  posted: December 22  2019 </h2
+
+<strong>Today's Progress</strong>: 
+    <p>  </p>
+<strong>Thoughts:</strong>
+    <p> I decided When to use static methods in my models
+</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896107/Screenshot_from_2019-12-21_03-26-29.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896115/Screenshot_from_2019-12-21_03-26-40.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896124/Screenshot_from_2019-12-21_03-27-03.png">
+<a href="https://github.com/nextwebb">view repo<a/>
+   
    
  
  
