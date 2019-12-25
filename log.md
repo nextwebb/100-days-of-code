@@ -399,7 +399,8 @@ In JavaScript functions are first-class objects, that means you can treat them j
 
 <strong>Today's Progress</strong>: 
     <p>  - fixed DNS error. ping http://google.com; returns Name or service not known <br>
-- worked with client side async calls with axios</p>
+         - worked with client side async calls with axios
+</p>
 <strong>Thoughts:</strong>
     <p> I decided When to use static methods in my models for my webApp
 </p>
