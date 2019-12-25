@@ -378,7 +378,7 @@ In JavaScript functions are first-class objects, that means you can treat them j
 <strong>Today's Progress</strong>: 
     <p> implemented some routing, model code and client side presentation of data for admin analytics.   </p>
 <strong>Thoughts:</strong>
-    <p> I decided When to use static methods in my models
+    <p> I decided When to use static methods in my models for my webApp
 </p>
 <p>1. AHAI FARMS Web APP in devlopment.</p>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896107/Screenshot_from_2019-12-21_03-26-29.png">
@@ -389,28 +389,53 @@ In JavaScript functions are first-class objects, that means you can treat them j
    <h2> Day 175;  posted: December 21  2019 </h2
 
 <strong>Today's Progress</strong>: 
-    <p>  </p>
+    <p>essentially; i worte more jScript!  </p>
 <strong>Thoughts:</strong>
-    <p> I decided When to use static methods in my models
-</p>
+    <p>Static methods are like auxiliary functions associated with the object which do not use or need the stored properties. </p>
 <p>1. AHAI FARMS Web APP in devlopment.</p>
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896107/Screenshot_from_2019-12-21_03-26-29.png">
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896115/Screenshot_from_2019-12-21_03-26-40.png">
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896124/Screenshot_from_2019-12-21_03-27-03.png">
 <a href="https://github.com/nextwebb">view repo<a/>
   
    <h2> Day 176;  posted: December 22  2019 </h2
 
 <strong>Today's Progress</strong>: 
-    <p>  </p>
+    <p>  - fixed DNS error. ping http://google.com; returns Name or service not known
+- worked with client side async calls with axios</p>
 <strong>Thoughts:</strong>
-    <p> I decided When to use static methods in my models
+    <p> I decided When to use static methods in my models for my webApp
 </p>
 <p>1. AHAI FARMS Web APP in devlopment.</p>
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896107/Screenshot_from_2019-12-21_03-26-29.png">
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896115/Screenshot_from_2019-12-21_03-26-40.png">
-<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1576896124/Screenshot_from_2019-12-21_03-27-03.png">
+
 <a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 177;  posted: December 23  2019 </h2
+
+<strong>Today's Progress</strong>: 
+    <p> wrote more static methods to my models</p>
+<strong>Thoughts:</strong>
+    <p>  Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 178;  posted: December 24  2019 </h2
+
+<strong>Today's Progress</strong>: 
+    <p> - wrote more Async calls to the server using Axios 
+-  routing, controllers and model logic</p>
+<strong>Thoughts:</strong>
+    <p>  Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+   
    
    
  
