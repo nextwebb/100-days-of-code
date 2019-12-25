@@ -412,7 +412,8 @@ In JavaScript functions are first-class objects, that means you can treat them j
 <strong>Today's Progress</strong>: 
     <p> wrote more static methods to my models</p>
 <strong>Thoughts:</strong>
-    <p>  Code first.
+    <p> 
+ Code first.
 Get a working model.
 Refactor code later.
 
@@ -424,10 +425,13 @@ Refactor code later.
    <h2> Day 178;  posted: December 24  2019 </h2
 
 <strong>Today's Progress</strong>: 
-    <p> - wrote more Async calls to the server using Axios 
--  routing, controllers and model logic</p>
+    <p>
+      wrote more Async calls to the server using Axios 
+      routing, controllers and model logic
+</p>
 <strong>Thoughts:</strong>
-    <p>  Code first.
+    <p> 
+  Code first.
 Get a working model.
 Refactor code later.
 
