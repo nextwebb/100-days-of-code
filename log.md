@@ -476,7 +476,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 182;   </h2>
+  <h2> Day 182; posted: December 30  2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
     - Worked on lifecycle react methods for making api request to server <br>
