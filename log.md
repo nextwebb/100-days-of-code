@@ -423,12 +423,13 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 178;  posted: December 24  2019 </h2
+   <h2> Day 178;  posted: December 24  2019 </h2>
+   <strong>Today's Progress</strong>: 
 <p>
       - wrote more Async calls to the server using Axios <br>
       - routing, controllers and model logic
 </p>
-<strong>Today's Progress</strong>: 
+
     
 <strong>Thoughts:</strong>
     <p> 
@@ -440,6 +441,56 @@ Refactor code later.
 <p>1. AHAI FARMS Web APP in devlopment.</p>
 
 <a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 179 - 180;  posted: December 26  2019 </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+      - Fixed some mongodb find one and update issues <br>
+      - Handled and implemented csrf form requests
+</p>
+
+    
+<strong>Thoughts:</strong>
+    <p> 
+  Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI FARMS Web APP in devlopment.</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 181;  posted: December 27  2019 </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+     - Webpack endpoints refactoring for compiling ES6 <br>
+      - worked on single page appications using reactjs library
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+ Being writing alot of backend functionalities using nodejs as my runtime environment and the expressjs framework on top of nodejs. Revisiting reactjs library and worked on components for building blocks of my User interface.
+
+</p>
+<p>1. Reactjs blogging application.</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 182;   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+    - Worked on lifecycle react methods for making api request to server <br>
+    - react stores data in two main methods, i.e using props and states.
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+ Being writing alot of backend functionalities using nodejs as my runtime environment and the expressjs framework on top of nodejs. Revisiting the reactjs library .
+
+</p>
+<p>1. Reactjs blogging application.</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+   
    
    
    
