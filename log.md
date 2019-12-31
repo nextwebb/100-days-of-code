@@ -424,12 +424,12 @@ Refactor code later.
 <a href="https://github.com/nextwebb">view repo<a/>
   
    <h2> Day 178;  posted: December 24  2019 </h2
-
-<strong>Today's Progress</strong>: 
-    <p>
+<p>
       - wrote more Async calls to the server using Axios <br>
       - routing, controllers and model logic
 </p>
+<strong>Today's Progress</strong>: 
+    
 <strong>Thoughts:</strong>
     <p> 
   Code first.
