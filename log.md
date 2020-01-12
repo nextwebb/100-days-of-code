@@ -461,7 +461,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 181;  posted: December 27  2019 </h2>
+   <h2> Day 181;  posted: January 1  2019 </h2>
    <strong>Today's Progress</strong>: 
 <p>
      - Webpack endpoints refactoring for compiling ES6 <br>
@@ -476,7 +476,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 182; posted: December 30  2019   </h2>
+  <h2> Day 182; posted: January 2  2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
     - Worked on lifecycle react methods for making api request to server <br>
@@ -490,6 +490,192 @@ Refactor code later.
 <p>1. Reactjs blogging application.</p>
 
 <a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 183; posted: January 3  2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+   -Worked on fetch API and parsing json data <br>
+- re-rendering parsed data with state 
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+ Being writing alot of backend functionalities using nodejs as my runtime environment and the expressjs framework on top of nodejs. Revisiting the reactjs library .
+
+</p>
+<p>1. Reactjs blogging application.</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 184; posted: January 4 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+  - Hooked my react components to render routes.<br>
+- worked on passing props from parent component to child components. <br>
+-learnt about the vertex staging server and the vertex community and the vertex CMS. <br>
+-Worked with react componentDidUpdate to always ensure the content is in sync with the modified DOM. <br>
+-why dangerouslySetInnerHTML is better than innerHTML in react. 
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+ Because React uses a virtual DOM, when it goes to compare the diff against the actual DOM, it can straight up bypass checking the children of that node because it knows the HTML is coming from another source. So there's performance gains.
+
+</p>
+<p>1. Reactjs blogging application.</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 185; posted: January 5  2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+  # plan and design of next product feature <br>
+# meeting with client for for evaluation and updates on project development
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+ Being writing alot of backend functionalities using nodejs as my runtime environment and the expressjs framework on top of nodejs. Revisiting the reactjs library .
+
+</p>
+<p>1. AHAI webApp</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 186; posted: January 6  2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+  # so tired managed. I managed to implement the product delete feature on the app. <br>
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+ Bad idea. don't code while tired.
+
+</p>
+<p>1. AHAI WebApp</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1578798467/Screenshot_from_2020-01-12_04-05-49.png">
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1578798474/Screenshot_from_2020-01-12_04-05-55.png" >
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 187; posted: January 7  2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+ # researched on the Blockchain technology <br>
+# worked with blockchain api documentations <br>
+# jwt Vs passport.js <br>
+# Passportjs  helps Devs build more secure RESTful endpoints without sessions by authenticating tokens or other strategies.
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Authentication using stateful user sessions and session_ids stored in the cookie has been a strategy that has worked for decades. But with the rise of service oriented architectures and web services, there has been a push to design applications with the principle of statelessness in mind.
+JWTs provide a stateless solution to authentication by removing the need to track session data on the server. Instead, JWTs allow us to safely and securely store our session data directly on the client in the form of a JWT.
+  https://blog.usejournal.com/sessionless-authentication-withe-jwts-with-node-express-passport-js-69b059e4b22c
+</p>
+<p>1. Reactjs blogging application.</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 188; posted: January 8  2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+ # researched on image resizing npm module that works well multer storage to the filesystem. Found sharp module <br>
+# refactoring some model codes <br>
+# rendering templates and parsing props 
+
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI WebApp</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 189; posted: January 9 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+#built frontend template  with bs4 <br>
+# integerated it with a node-express backend <br>
+#refactoring the Frontend code
+
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI WebApp</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+   
+  <h2> Day 190; posted: January 10 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+# working on  UI/UX <br>
+#integrated Google forms 
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. INOVACTHON WebSITE</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 191; posted: January 11 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+# integrating a node server <br>
+#sendgrid module <br>
+  #cloudmailin integration <br>
+# working on UI <br>
+#deploy to heroku 
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+You want to build email-clients and emailing features for your web applications?
+
+CloudMailin just takes your emails and converts them into regular HTTP POSTs. you can receive either your email as JSON, a Multipart form/data request or as RAW text. 
+
+</p>
+<p>1. INOVACTHON WebSITE</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 192; posted: January 12 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI webApp</p>
+
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  
+  
+  
+  
    
    
    
