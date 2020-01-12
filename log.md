@@ -199,7 +199,7 @@ pass:nextwebb@me <br>
 
 <strong>Today's Progress</strong>: <p> I Implemented some model using the MVC design pattern . I wrote CRUD Operations to my app's mongodb storage. i work on more promises to handle expensive functions execution and async operations. lastly, i debugged alot of my syntax errors.  </p>
 
-<strong>Thoughts:</strong><p> I'm happy i worked today. honestly i just wanted to sleep more. Buh the #100DaysOfCode community has a way of reinvigorating my passion for code. Another day to be world class.  </p>
+<strong>Thoughts:</strong><p> I'm happy i worked today. honestly i just wanted to sleep more. Buh the -100DaysOfCode community has a way of reinvigorating my passion for code. Another day to be world class.  </p>
 
 <strong>Link(s) to work</strong>
 <p>1. webconnect App. it replicates the main functionalities of modern social network applications. it's still in development</p>
@@ -527,8 +527,8 @@ Refactor code later.
    <h2> Day 185; posted: January 5  2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
-  # plan and design of next product feature <br>
-# meeting with client for for evaluation and updates on project development
+  - plan and design of next product feature <br>
+- meeting with client for for evaluation and updates on project development
 
 </p>
 <strong>Thoughts:</strong>
@@ -543,7 +543,7 @@ Refactor code later.
   <h2> Day 186; posted: January 6  2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
-  # so tired managed. I managed to implement the product delete feature on the app. <br>
+  - so tired managed. I managed to implement the product delete feature on the app. <br>
 
 </p>
 <strong>Thoughts:</strong>
@@ -559,10 +559,10 @@ Refactor code later.
   <h2> Day 187; posted: January 7  2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
- # researched on the Blockchain technology <br>
-# worked with blockchain api documentations <br>
-# jwt Vs passport.js <br>
-# Passportjs  helps Devs build more secure RESTful endpoints without sessions by authenticating tokens or other strategies.
+ - researched on the Blockchain technology <br>
+- worked with blockchain api documentations <br>
+- jwt Vs passport.js <br>
+- Passportjs  helps Devs build more secure RESTful endpoints without sessions by authenticating tokens or other strategies.
 
 </p>
 <strong>Thoughts:</strong>
@@ -578,9 +578,9 @@ JWTs provide a stateless solution to authentication by removing the need to trac
   <h2> Day 188; posted: January 8  2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
- # researched on image resizing npm module that works well multer storage to the filesystem. Found sharp module <br>
-# refactoring some model codes <br>
-# rendering templates and parsing props 
+ - researched on image resizing npm module that works well multer storage to the filesystem. Found sharp module <br>
+- refactoring some model codes <br>
+- rendering templates and parsing props 
 
 
 </p>
@@ -598,9 +598,9 @@ Refactor code later.
   <h2> Day 189; posted: January 9 2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
-#built frontend template  with bs4 <br>
-# integerated it with a node-express backend <br>
-#refactoring the Frontend code
+-built frontend template  with bs4 <br>
+- integerated it with a node-express backend <br>
+-refactoring the Frontend code
 
 
 </p>
@@ -619,8 +619,8 @@ Refactor code later.
   <h2> Day 190; posted: January 10 2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
-# working on  UI/UX <br>
-#integrated Google forms 
+- working on  UI/UX <br>
+-integrated Google forms 
 
 </p>
 <strong>Thoughts:</strong>
@@ -637,11 +637,11 @@ Refactor code later.
   <h2> Day 191; posted: January 11 2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
-# integrating a node server <br>
-#sendgrid module <br>
-  #cloudmailin integration <br>
-# working on UI <br>
-#deploy to heroku 
+- integrating a node server <br>
+-sendgrid module <br>
+  -cloudmailin integration <br>
+- working on UI <br>
+-deploy to heroku 
 
 </p>
 <strong>Thoughts:</strong>
