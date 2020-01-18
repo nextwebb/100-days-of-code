@@ -1,3 +1,4 @@
+
 <h1> Round 2 : 100 Days Of Code - Log</h1>
 
 <h2> Day 111; posted: October 1, 2019 </h2
@@ -655,10 +656,11 @@ CloudMailin just takes your emails and converts them into regular HTTP POSTs. yo
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 192; posted: January 12 2019   </h2>
+  <h2> Day 192 - 193; posted: January 14 2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
-
+Nodejs image manipulation libraries
+ https://link.medium.com/4r6rmRsvf3
 
 </p>
 <strong>Thoughts:</strong>
@@ -670,6 +672,48 @@ Refactor code later.
 </p>
 <p>1. AHAI webApp</p>
 
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 194; posted: January 15 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+- Debugging and refactoring my image Resize node module 😕!
+error: Invalid input. <br>
+i'll fix you soon...i know i will!
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI webApp</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579233342/Screenshot_from_2020-01-16_01-15-47.png"/>
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+  <h2> Day 195; posted: January 16 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+- I'm comfortable writing my models  using function constructors with prototypical and static methods; i wrote one of my app's model in using  <br>
+- worked on some self executing anynomous functions <br>
+-   the file path points to a file in the images folder located in the current folder: 'public/uploads' 
+
+the file path points to a file in the images folder located at the root of the current web:  '/public/uploads' 
+
+the file path points to a file in the images folder located in the folder one level above the current folder:  '../public/uploads' <br>
+- removed repeated code. DRY principle
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+  I had to relearn 
+Relative File Paths today 🤔. D bugs were giving me headaches 😤.
+i don't know it all.. There's nothing wrong with needing refreshers & knowing how to find information is certainly a good skill to have 🤷‍♂.
+
+</p>
+<p>1. AHAI webApp</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579233342/Screenshot_from_2020-01-16_01-15-47.png"/>
 <a href="https://github.com/nextwebb">view repo<a/>
   
   
@@ -685,3 +729,4 @@ Refactor code later.
 
  
  
+
