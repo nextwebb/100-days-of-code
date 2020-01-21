@@ -732,7 +732,7 @@ Get a working model.
 Refactor code later.
 
 </p>
-<p>1. AHAI webApp</p>
+<p>1. Open Source Project</p>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579607331/architecture.png"/>
 <a href="https://github.com/nextwebb">view repo<a/>
   
