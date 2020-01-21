@@ -716,6 +716,26 @@ i don't know it all.. There's nothing wrong with needing refreshers & knowing ho
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579233342/Screenshot_from_2020-01-16_01-15-47.png"/>
 <a href="https://github.com/nextwebb">view repo<a/>
   
+   <h2> Day 196/197; posted: January 19 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+Highlights of work done
+- Researched on headless & traditional CMS architecture <br>
+- comparison between traditional Vs headless CMS <br>
+- traditional fullstack apps Vs headless apps <br>
+- Refactoring codebase 4 fullstack app <br>
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI webApp</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579607331/architecture.png"/>
+<a href="https://github.com/nextwebb">view repo<a/>
+  
   
   
   
