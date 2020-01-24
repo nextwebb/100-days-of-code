@@ -736,7 +736,7 @@ Refactor code later.
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579607331/architecture.png"/>
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 198; posted: January 20 2019   </h2>
+   <h2> Day 198; posted: January 22 2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
 -  Sharpening my problem solving skills.
@@ -756,13 +756,13 @@ Refactor code later.
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579895558/Screenshot_from_2020-01-22_01-29-16.png" />
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 199; posted: January 21 2019   </h2>
+   <h2> Day 199 / 200; posted: January 24 2019   </h2>
    <strong>Today's Progress</strong>: 
 <p>
-- Today was Day 200/301 of working and learning from projects around the JavaScript environment. I am not where I want to be yet, and everyday is a learning experience for me!  Round 2 completed! 💪
+- Today was Day 200/301 of working and learning from projects around the JavaScript environment. I am not where I want to be yet, and everyday is a learning experience for me!  Round 2 completed! 💪 <br>
  - I spent most of the day refactoring my node code.   <br>
-  - installing and Running opensource project locally. <br>
-  - catchup on opensource contributions with the team. <br>
+  - installing and Running an opensource project locally. <br>
+  - catchup on opensource contributions with the team. 
 
 </p>
 <strong>Thoughts:</strong>
