@@ -736,6 +736,46 @@ Refactor code later.
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579607331/architecture.png"/>
 <a href="https://github.com/nextwebb">view repo<a/>
   
+   <h2> Day 198; posted: January 20 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+-  Sharpening my problem solving skills.
+Took some Dynamic programming  tests on @hackerank yesterday. 
+https://t.co/wOuom055ZA <br>
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI webApp</p>
+<img src=" https://res.cloudinary.com/nextwebb-devs/image/upload/v1579895545/Screenshot_from_2020-01-22_01-32-25.png"/>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579895558/Screenshot_from_2020-01-22_01-29-16.png" />
+<a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 199; posted: January 21 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+- Today was Day 200/301 of working and learning from projects around the JavaScript environment. I am not where I want to be yet, and everyday is a learning experience for me!  Round 2 completed! 💪
+ - I spent most of the day refactoring my node code.   <br>
+  - installing and Running opensource project locally. <br>
+  - catchup on opensource contributions with the team. <br>
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. AHAI webApp</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579895937/Screenshot_from_2020-01-21_23-02-08.png"/>
+<a href="https://github.com/nextwebb">view repo<a/>
+  
   
   
   
