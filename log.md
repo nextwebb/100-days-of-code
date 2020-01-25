@@ -787,7 +787,7 @@ Refactor code later.
   
   
   
-     ### How to install and run Ghost locally
+      How to install and run Ghost locally
 
    1. ## Install Node.js
    Ghost Blogging engine is headless CMS powered by (Node.js)[https://nodejs.org/en/]. Hence, we have to download and install Node.js LTS version from the (official website)[https://nodejs.org/en/].
