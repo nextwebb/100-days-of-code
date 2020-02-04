@@ -462,7 +462,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 181;  posted: January 1  2019 </h2>
+   <h2> Day 181;  posted: January 1  2020 </h2>
    <strong>Today's Progress</strong>: 
 <p>
      - Webpack endpoints refactoring for compiling ES6 <br>
@@ -477,7 +477,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 182; posted: January 2  2019   </h2>
+  <h2> Day 182; posted: January 2  2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
     - Worked on lifecycle react methods for making api request to server <br>
@@ -492,7 +492,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 183; posted: January 3  2019   </h2>
+   <h2> Day 183; posted: January 3  2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
    -Worked on fetch API and parsing json data <br>
@@ -507,7 +507,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 184; posted: January 4 2019   </h2>
+  <h2> Day 184; posted: January 4 2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
   - Hooked my react components to render routes.<br>
@@ -525,7 +525,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 185; posted: January 5  2019   </h2>
+   <h2> Day 185; posted: January 5  2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
   - plan and design of next product feature <br>
@@ -541,7 +541,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 186; posted: January 6  2019   </h2>
+  <h2> Day 186; posted: January 6  2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
   - so tired managed. I managed to implement the product delete feature on the app. <br>
@@ -557,7 +557,7 @@ Refactor code later.
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1578798474/Screenshot_from_2020-01-12_04-05-55.png" >
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 187; posted: January 7  2019   </h2>
+  <h2> Day 187; posted: January 7  2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
  - researched on the Blockchain technology <br>
@@ -576,7 +576,7 @@ JWTs provide a stateless solution to authentication by removing the need to trac
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 188; posted: January 8  2019   </h2>
+  <h2> Day 188; posted: January 8  2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
  - researched on image resizing npm module that works well multer storage to the filesystem. Found sharp module <br>
@@ -596,7 +596,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 189; posted: January 9 2019   </h2>
+  <h2> Day 189; posted: January 9 2020  </h2>
    <strong>Today's Progress</strong>: 
 <p>
 -built frontend template  with bs4 <br>
@@ -617,7 +617,7 @@ Refactor code later.
 <a href="https://github.com/nextwebb">view repo<a/>
   
    
-  <h2> Day 190; posted: January 10 2019   </h2>
+  <h2> Day 190; posted: January 10 2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
 - working on  UI/UX <br>
@@ -635,7 +635,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 191; posted: January 11 2019   </h2>
+  <h2> Day 191; posted: January 11 2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
 - integrating a node server <br>
@@ -656,7 +656,7 @@ CloudMailin just takes your emails and converts them into regular HTTP POSTs. yo
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 192 - 193; posted: January 14 2019   </h2>
+  <h2> Day 192 - 193; posted: January 14 2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
 Nodejs image manipulation libraries
@@ -674,7 +674,7 @@ Refactor code later.
 
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 194; posted: January 15 2019   </h2>
+   <h2> Day 194; posted: January 15 2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
 - Debugging and refactoring my image Resize node module 😕!
@@ -693,7 +693,7 @@ Refactor code later.
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579233342/Screenshot_from_2020-01-16_01-15-47.png"/>
 <a href="https://github.com/nextwebb">view repo<a/>
   
-  <h2> Day 195; posted: January 16 2019   </h2>
+  <h2> Day 195; posted: January 16 2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
 - I'm comfortable writing my models  using function constructors with prototypical and static methods; i wrote one of my app's model in using  <br>
@@ -716,7 +716,7 @@ i don't know it all.. There's nothing wrong with needing refreshers & knowing ho
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579233342/Screenshot_from_2020-01-16_01-15-47.png"/>
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 196/197; posted: January 19 2019   </h2>
+   <h2> Day 196/197; posted: January 19 2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
 Highlights of work done
@@ -756,7 +756,7 @@ Refactor code later.
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579895558/Screenshot_from_2020-01-22_01-29-16.png" />
 <a href="https://github.com/nextwebb">view repo<a/>
   
-   <h2> Day 199 / 200; posted: January 24 2019   </h2>
+   <h2> Day 199 / 200; posted: January 24 2020   </h2>
    <strong>Today's Progress</strong>: 
 <p>
 - Today was Day 200/301 of working and learning from projects around the JavaScript environment. I am not where I want to be yet, and everyday is a learning experience for me!  Round 2 completed! 💪 <br>
@@ -775,6 +775,119 @@ Refactor code later.
 <p>1. AHAI webApp</p>
 <img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1579895937/Screenshot_from_2020-01-21_23-02-08.png"/>
 <a href="https://github.com/nextwebb">view repo<a/>
+  
+   <h2> Day 201; posted: January 27 2020   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+Highlights:
+- Worked with Mail Service for the Sendgrid v3 Web API, Sending an Email to multiple users using a single api request <br>
+-  Testing of webApp and user feedback from client
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. Repotecc </p>
+
+ <h2> Day 202; posted: January 28 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+Highlights:
+Light redesign of UI and customization of old project: node chat app. Implemented Responsive and Mobile-friendly rendering. 🤓
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. Nextty chat app</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1580266542/Screenshot_from_2020-01-29_00-39-36.png" />
+
+ <h2> Day 203; posted: January 29 2019   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+Highlights:
+- Deployed minimalistic chat App. Built with nodejs and socketing server functionality. <br>
+- Reviewing and researching on Opensource project issues. Still working 🥴 <br>
+https://radiant-wave-93808.herokuapp.com
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1. Nextty chat app</p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1580266542/Screenshot_from_2020-01-29_00-39-36.png" />
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1580845066/Screenshot_from_2020-02-04_20-37-24.png" />
+
+ <h2> Day 204; posted: January 30 2020   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+Highlights:
+Tiring day 😴
+- Read alot of docs 4 an Opensource project , picked a part I'll b contributing 2, after hours of research & reproducing many of d open issues on GitHub 😤 <br>
+- helped a newbie on how 2 manage time & stay motivated
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1.OPenSource contributions </p>
+
+ <h2> Day 205/ 206; posted: Feb 1st 2020   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+Highlights:
+- I think I finally get asynchronous programming in nodejs. 😌  <br>
+It's the  event loop! It's in the heart of Node.js / Javascript - it is responsible for scheduling async operations. <br>
+- I gave My first talk at a tech event 🤓
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1.Preach JavaScript </p>
+
+ <h2> Day 207; posted: Feb 3rd 2020   </h2>
+   <strong>Today's Progress</strong>: 
+<p>
+Highlights:
+- I encountered my first issue 🤓 with context binding in ES6 and mutation of "this" keyword <br>
+- learnt about ANI and AGI in AI/ML⚙️
+
+</p>
+<strong>Thoughts:</strong>
+    <p> 
+Code first.
+Get a working model.
+Refactor code later.
+
+</p>
+<p>1.AHAI webApp </p>
+<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1580774743/Screenshot_from_2020-02-04_01-04-10.png" />
+
+
+
+
+
   
   
   
